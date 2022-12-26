@@ -1,0 +1,1 @@
+../eip-draft_nft_metadata_content.md
